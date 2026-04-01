@@ -44,7 +44,6 @@ public class UseCase4TrainConsistMgmnt {
 
         System.out.println("After Inserting 'Pantry Car' at position 2: ");
         System.out.println(trainConsist);
-
         trainConsist.removeFirst();
         trainConsist.removeLast();
 
