@@ -42,7 +42,7 @@ public class UseCase5TrainConsistMgmnt {
         formation.add("Sleeper");
         System.out.println("Final Train Formation: ");
         System.out.println(formation);
-        System.out.println("Note: ");
+        System.out.println("Note:");
         System.out.println("LinkedHashSet preserves insertion order and removes duplicates automatically");
 
         System.out.println("UC5 formation setup completed");
