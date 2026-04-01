@@ -20,7 +20,7 @@ import java.util.List;
 public class UseCase1TrainConsistMgmnt {
     public static void main(String[] args){
         System.out.println("==================================");
-        System.out.println("==Train Consist Management App==");
+        System.out.println("==Train Consist Management App===");
         System.out.println("==================================");
 
         //creating a dynamic list
