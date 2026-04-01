@@ -51,7 +51,7 @@ public class UseCase4TrainConsistMgmnt {
         System.out.println("After removing the first and last bogie: ");
         System.out.println(trainConsist);
 
-        System.out.println("UC4 ordered consist operations completed ....");
+        System.out.println("UC4 ordered consist operations completed ...");
 
     }
 }
