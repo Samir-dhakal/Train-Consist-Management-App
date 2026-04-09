@@ -52,7 +52,7 @@ public class UseCase8TrainConsistMgmnt {
     }
     public List<Bogie> filterBogies(List<Bogie> bogies) {
         return bogies.stream()
-                .filter(b -> b.getCapacity() >=60) // match your test cases
+                .filter(b -> b.getCapacity() >=60) // match your test case
                 .collect(Collectors.toList());
     }
 
