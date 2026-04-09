@@ -30,9 +30,9 @@ import java.util.stream.Collectors;
  */
 public class UseCase9TrainConsistMgmnt {
     public static void main(String[] args){
-        System.out.println("===========================================");
+        System.out.println("=========================================");
         System.out.println("UC8-Filter Passenger Bogies Using Streams");
-        System.out.println("===========================================");
+        System.out.println("=========================================");
 
         List<Bogie> bogies=new ArrayList<>();
         bogies.add(new Bogie("Sleeper",72));
