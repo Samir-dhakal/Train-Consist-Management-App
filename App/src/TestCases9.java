@@ -18,7 +18,7 @@ UseCase9TrainConsistMgmnt app=new UseCase9TrainConsistMgmnt();
         bogies.add(new Bogie("Sleeper",72));
         bogies.add(new Bogie("AC Chair",56));
         bogies.add(new Bogie("First Class",24));
-        bogies.add(new Bogie("General",70));
+        bogies.add(new Bogie("General",73));
         bogies.add(new Bogie("General",60));
 
         Map<String ,List<Bogie>> groupedBogies = bogies.stream().collect(Collectors.groupingBy(Bogie::getName));
