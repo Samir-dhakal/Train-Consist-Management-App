@@ -1,4 +1,4 @@
-public class TrainConsistMgmnt {
+public class TestCase16 {
 
     public static void main(String[] args) {
 
